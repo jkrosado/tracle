@@ -1,6 +1,7 @@
 # TracleOne
 ## About TracleOne
 TracleOne is a fork of Tracle to look less like Cosmic Panda and more like YouTube One.
+The original README file from Tracle is avaliable below if you want to read it.
 
 # TRACLE - The open video platform
 TRACLE is an upcoming free and open source video platform.
